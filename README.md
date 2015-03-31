@@ -89,11 +89,11 @@ Serão todos aqueles que desejam compartilhar os eventos, artigos e assuntos sob
 
 
 9.REQUISITOS
-- Cadastro de usuários.
-- 
-- Acesso com login.
-- 
-- Disponibilidade de serviço 24 horas.
+
+• Cadastro de usuários.
+• Sistema de login.
+• Sistema sing out
+• Disponibilidade de seriços 24 horas.
 
 
 Recife, 31 de março de 2015.
