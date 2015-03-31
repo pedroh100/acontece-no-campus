@@ -47,25 +47,38 @@ O Sistema Acontece no Campus tem como objetivo fornecer informações a respeito
 4.PREMISSAS
 
 • Aprovação de orçamento adequado às necessidades do projeto.
+
 • Após a implementação serão necessárias fases de atualização do software.
+
 • Seguir o cronograma proposto para cada segmento do projeto.
+
 • Reuniões semanais para definições do que será realizado.
-• Organizar as tarefas fazendo com que nenhum membro fique sobrecarregado
+
+• Organizar as tarefas fazendo com que nenhum membro fique sobrecarregado.
+
 
 5.RESTRIÇÕES
 
 • 4 projetistas irão compor a equipe de projeto.
+
 • Desenvolvimento do software será de acordo com o modelo de orientação a objetos. 
+
 • Equipe especializada para controle de conteúdos na rede social desenvolvida.
+
 •	Utilização da linguagem RUBY para construção da aplicação.
+
 •	Desenvolvimento do layout da aplicação será feito utilizando as linguagens de HTML, CSS e JAVASCRIPT.
+
 
 6.RISCOS
 
 • Algum membro da equipe não aprender em tempo a linguagem já proposta para o projeto.
+
 • Divergências de opniões compromentendo o rendimento e desenvolvimento proposto.
-• Constantes mudanças na elaboração das atividades podendo alterar o que realmente está proposto
-• Membro não cumprir com o que já lhe foi designado no tempo proposto
+
+• Constantes mudanças na elaboração das atividades podendo alterar o que realmente está proposto.
+
+• Membro não cumprir com o que já lhe foi designado no tempo proposto.
 
 
 7.Cronograma
@@ -91,19 +104,22 @@ Serão todos aqueles que desejam compartilhar os eventos, artigos e assuntos sob
 9.REQUISITOS
 
 • Cadastro de usuários.
+
 • Sistema de login.
-• Sistema sing out
+
+• Sistema sing out.
+
 • Disponibilidade de seriços 24 horas.
 
 
 Recife, 31 de março de 2015.
 
 _________________________________________________________________________
-
 Patrocinador do Projeto
  Vinicius Cardoso Garcia
+ 
+ 
 
 _________________________________________________________________________
-
 Gerente do Projeto
  Roberto Moreira Santos
